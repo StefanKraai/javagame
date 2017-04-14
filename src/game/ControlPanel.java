@@ -18,7 +18,7 @@ public class ControlPanel extends javax.swing.JPanel
     private double maxAngularVelocityScale=0.1;
     private double angularFrictionScale=0.001;
     
-    private final int SLIDER_MAXIMUM=1000;
+    private final static int SLIDER_MAXIMUM=1000;
     
     
     
